@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://medi-idem-web.github.io/sales_sitemap.xml
